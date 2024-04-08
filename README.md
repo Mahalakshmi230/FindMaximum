@@ -38,10 +38,9 @@ def max_marks(marks):
 
 
 ## Output:
-
-![Screenshot 2024-03-23 232859](https://github.com/Mahalakshmi230/FindMaximum/assets/149365324/f2b7dd09-e976-48f0-a2aa-fde1a071bcf8)
-![Screenshot 2024-03-23 232918](https://github.com/Mahalakshmi230/FindMaximum/assets/149365324/f4f79d62-2a15-40d1-8f60-59cb0d6a6d46)
-![Screenshot 2024-03-23 232931](https://github.com/Mahalakshmi230/FindMaximum/assets/149365324/45392ce2-f045-4807-8e06-9a02ea443d1f)
+![image](https://github.com/Mahalakshmi230/FindMaximum/assets/149365324/53fe7473-cab2-4ee9-a1c0-c7d5fa0154a3)
+![image](https://github.com/Mahalakshmi230/FindMaximum/assets/149365324/2ff4f0aa-14d4-4a7b-8b0b-56bb395c3527)
+![image](https://github.com/Mahalakshmi230/FindMaximum/assets/149365324/03b6576d-18c3-4a4d-845b-a11dbd06c200)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
